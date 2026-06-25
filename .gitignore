@@ -1,0 +1,7 @@
+.cursor/
+.cursorrules
+.agents/
+*.cursor.md
+
+.env
+*.log
